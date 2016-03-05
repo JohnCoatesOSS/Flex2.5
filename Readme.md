@@ -5,3 +5,6 @@ When I first started writing Flex 2 the latest available jailbreak was for iOS 6
 
 #### What iOS versions is Flex 2.5 compatible with?
 iOS 9 only.
+
+#### Why not make it compatible with iOS 8?
+There's a lot things, like `UIStackView`, that are in iOS 9 that make it easier for me to develop Flex 2.5. Every device that's iOS 8 compatible can be upgraded to iOS 9, so let's look towards the future and not hold ourselves back.
